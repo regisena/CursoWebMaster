@@ -1,0 +1,25 @@
+#div1 h1{
+    color: red;
+}
+
+#div1 p{
+    color: green;
+}
+
+.classe_div2{
+    background-color: aqua;
+}
+
+.classe_div2 p{
+    background-color: bisque;
+}
+
+#regi{
+    background-color: blueviolet;
+    font-size: 16;
+}
+
+#regi4{
+    background-color: aquamarine;
+    font-size: 21;
+}
