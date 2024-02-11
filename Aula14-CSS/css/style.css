@@ -1,0 +1,14 @@
+/*resetando a página*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*fim resetando a página*/
+
+/*EStilo para o conteúdo para nosso site*/
+
+p{
+    letter-spacing: 5px;
+    line-height: 30px;
+ }
