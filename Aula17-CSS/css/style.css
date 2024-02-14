@@ -22,9 +22,11 @@ html,body{
 
 .link_{
 	font-size: 30px;
+	text-decoration: none;
 }
 
 
 .tipo2{
 	font-size: 40px;
+	text-decoration: underline; /* padrao */
 }

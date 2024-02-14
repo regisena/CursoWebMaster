@@ -1,4 +1,4 @@
-﻿*{
+*{
 	margin: 0;
 	padding: 0;
 }
@@ -15,24 +15,18 @@ html,body{
 	height: 100%; 
 }
 
-.box,.box2{
-	width: 300px;
-	margin: 0 auto;
-	display: none; /* Por padrão o display é sempre block */
-	background: gray;
-	/*
-	overflow-x: hidden;  -> Podemos utilizar também scroll, auto ou visible
-	overflow-y: hidden;  -> Podemos utilizar também scroll, auto ou visible
-	overflow: hidden; -> Quando queremos atacar o X(horizontal) e o Y(Vertical).
-	*/
-}
 
-.box p,.box2 p{
+/*.header{
 	width: 100%;
-}
+	min-width: 1280px;
+	height: 200px;
+	background: gray;
+}*/
 
-.box2{
-	background-color: red;
-	/*margin-top:20px;*/
-	display: block;
+.article{
+	margin: 0 auto;
+	width: 1280px;
+	height: 30%;
+	min-height: 500px;
+	background: red;
 }
