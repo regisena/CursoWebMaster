@@ -1,25 +1,29 @@
-#div1 h1{
-    color: red;
+html, body{
+	margin: 0px;
+	padding: 0px;
 }
 
-#div1 p{
-    color: green;
+
+/* por classe */
+.div1  h1{
+	color: red;
 }
 
-.classe_div2{
-    background-color: aqua;
+.div2  h1{
+	color: orange;
 }
 
-.classe_div2 p{
-    background-color: bisque;
+/*
+
+Ou...
+
+*/
+
+/* por id */
+#div1 > h1{
+	color: red;
 }
 
-#regi{
-    background-color: blueviolet;
-    font-size: 16;
-}
-
-#regi4{
-    background-color: aquamarine;
-    font-size: 21;
+#div2 > h1{
+	color: orange;
 }
